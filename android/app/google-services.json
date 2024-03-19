@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "662707829487",
+    "project_id": "tudu-abab5",
+    "storage_bucket": "tudu-abab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662707829487:android:9209ef705d2debcbc5b91a",
+        "android_client_info": {
+          "package_name": "com.example.ems"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnt8WuP2mzWSgTNm-q0m8am_UO6t-q3GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662707829487:android:036cb4bbb8bffe3ec5b91a",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnt8WuP2mzWSgTNm-q0m8am_UO6t-q3GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
